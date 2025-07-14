@@ -102,7 +102,3 @@ python zara_stok_kontrol.py
 -   Otomatik kontrol seçeneği işaretliyse, program varsayılan olarak 5 dakikada bir kontrol yapar.
 
 ---
-örnek link: 
-https://www.zara.com/tr/tr/tote-canta-p16087410.html?v1=410585684&utm_campaign=productShare&utm_medium=mobile_sharing_iOS&utm_source=red_social_movil
-
-https://www.zara.com/tr/tr/bantli-suni-rugan-ayakkabi-p11208610.html?v1=440132536&utm_campaign=productShare&utm_medium=mobile_sharing_iOS&utm_source=red_social_movil
